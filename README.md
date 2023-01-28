@@ -5,7 +5,7 @@
 - ☕️ Open source entusiast.
 - 📫 How to reach me: [Twitter](https://twitter.com/svexdev), [Telegram](https://t.me/svex99), svexdev@gmail.com.
 
-#### Mi tech stack
+#### The tech stack
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/> &nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="35" height="35"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/> &nbsp;
