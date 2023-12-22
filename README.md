@@ -3,7 +3,7 @@
 - 🎓 BSc. Computer Science from University of Havana.
 - 🧑‍💻 Fullstack developer.
 - ☕️ Open Source enthusiastic.
-- 📫 How to reach me: [Twitter](https://twitter.com/svexdev), [Telegram](https://t.me/svex99), svexdev@gmail.com.
+- 📫 How to reach me: [Twitter](https://twitter.com/svexdev), [Telegram](https://t.me/svex_99), svexdev@gmail.com.
 
 #### The tech stack
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/> &nbsp; 
