@@ -17,6 +17,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="35" height="35"/> &nbsp;
 
-[![svex99's github stats](https://github-readme-stats.vercel.app/api?username=svex99&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svex99&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
